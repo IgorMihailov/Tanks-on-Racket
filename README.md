@@ -1,5 +1,4 @@
 # Tanks-on-Racket
-Simple 2D game  
 Get 10 flags and don't let the enemies reach the top of map!
 
 Controls:
